@@ -1,2 +1,2 @@
-# sigma-web-dev-course
-sourse code for sigma wev devlopment course
+# ultimate web development.
+sourse code for  wev devlopment course
