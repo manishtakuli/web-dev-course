@@ -33,7 +33,7 @@ Learned how to create and structure tables using rows, columns, table headings, 
 Learned how to create HTML forms and use different input fields to collect information from users.
 
 10. Semantic HTML
-Learned about semantic HTML elements such as <header>, <nav>, <main>, <section>, <article>, and <footer> to create meaningful webpage structures.
+Learned about semantic HTML elements  to create meaningful webpage structures.
 
 11. HTML Attributes
 Learned how attributes provide additional information to HTML elements and control their behavior and properties.
